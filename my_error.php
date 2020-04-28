@@ -24,7 +24,7 @@ function countDown($cijfer)
 
 try {
     countDown($cijfer);
-    
+
 }
 
 catch (Exception $e) {
